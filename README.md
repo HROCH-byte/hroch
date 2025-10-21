@@ -51,7 +51,7 @@ index.html
       margin: 10px;
       border-radius: 10px;
       box-shadow: 0 0 8px rgba(0,0,0,0.1);
-    }
+    }<img src="miimagen.jpg" alt="IMG_20251014_090130.jpg">
     form {
       max-width: 500px;
       margin: 0 auto;
