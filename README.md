@@ -93,10 +93,14 @@ index.html
   </style>
 </head>
 <body>
-  <header>
-    <h1>Hospital General del Oriente Chiricano<br>Dr. Francisco Pérez</h1>
-    <p>Comprometidos con la salud y el bienestar de nuestra comunidad</p>
-  </header>
+<header style="background-image:url('banner.jpg'); background-size:cover; background-position:center; color:white; padding:100px 20px;">
+  <h1 style="background-color:rgba(0,0,0,0.5); display:inline-block; padding:20px; border-radius:10px;">
+    Hospital General del Oriente Chiricano<br>Dr. Francisco Pérez
+  </h1>
+  <p style="font-size:1.2em; background-color:rgba(0,0,0,0.4); display:inline-block; padding:10px 20px; border-radius:10px;">
+    Comprometidos con la salud y el bienestar de nuestra comunidad
+  </p>
+</header>
 
   <nav>
     <a href="#inicio">Inicio</a>
